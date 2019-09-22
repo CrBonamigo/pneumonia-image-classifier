@@ -5,5 +5,5 @@ Dataset Link     : <a href=https://www.kaggle.com/paultimothymooney/chest-xray-p
 
 ## Run
 
-Download dataset and extract to "data" folder
-Run pneumonia_image_classifier.ipynb
+1 - Download dataset and extract to "data" folder
+2 - Run pneumonia_image_classifier.ipynb
